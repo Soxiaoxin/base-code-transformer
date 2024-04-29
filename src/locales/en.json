@@ -1,0 +1,15 @@
+{
+  "submit_button": "Confirm",
+  "select_table": "Select Table",
+  "select_table_placeholder": "Please Select A Table To Operate On",
+  "select_target_view": "Select View",
+  "select_target_view_placeholder": "Please select a view to operate",
+  "select_target_field": "Target Field",
+  "select_target_field_placeholder": "Please select the target field",
+  "select_code_prefix": "Code Prefix",
+  "select_code_prefix_placeholder": "Enter the code prefix",
+  "select_code_format": "Code Format",
+  "select_code_format_placeholder": "Please select the code format",
+  "select_code_suffix": "Code Suffix",
+  "select_code_suffix_placeholder": "Please select the code suffix"
+}

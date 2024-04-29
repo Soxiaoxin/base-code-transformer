@@ -1,0 +1,15 @@
+{
+  "submit_button": "確認",
+  "select_table": "テーブルの選択",
+  "select_table_placeholder": "操作するテーブルを選択してください",
+  "select_target_view": "ビューを選択",
+  "select_target_view_placeholder": "操作するビューを選択してください",
+  "select_target_field": "ターゲットフィールド",
+  "select_target_field_placeholder": "ターゲットフィールドを選択してください",
+  "select_code_prefix": "コード接頭辞",
+  "select_code_prefix_placeholder": "コード接頭辞を入力してください",
+  "select_code_format": "コード形式",
+  "select_code_format_placeholder": "コード形式を選択してください",
+  "select_code_suffix": "コードサフィックス",
+  "select_code_suffix_placeholder": "コードサフィックスを選択してください"
+}

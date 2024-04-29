@@ -1,0 +1,15 @@
+{
+  "submit_button": "确定",
+  "select_table": "选择表格",
+  "select_table_placeholder": "请选择一个要操作的表格",
+  "select_target_view": "选择视图",
+  "select_target_view_placeholder": "请选择一个要操作的视图",
+  "select_target_field": "目标字段",
+  "select_target_field_placeholder": "请选择目标字段",
+  "select_code_prefix": "编码前缀",
+  "select_code_prefix_placeholder": "输入编码前缀",
+  "select_code_format": "编码格式",
+  "select_code_format_placeholder": "请选择编码格式",
+  "select_code_suffix": "编码尾缀",
+  "select_code_suffix_placeholder": "请选择编码尾缀"
+}
